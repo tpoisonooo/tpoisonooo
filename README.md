@@ -19,6 +19,10 @@ Here are some ideas to get you started:
 
 My favorate projects:
 
+* llama onnx format and single demo without `torch`
+
+[![](https://github-readme-stats.vercel.app/api/pin?username=tpoisonooo&repo=llama.onnx)](https://github.com/tpoisonooo/llama.onnx)
+
 * how to optimize GEMM，armv7/aarch64/aarch64-int8/cuda/cuda-int4/vulkan all supported
 
 [![](https://github-readme-stats.vercel.app/api/pin?username=tpoisonooo&repo=how-to-optimize-gemm)](https://github.com/tpoisonooo/how-to-optimize-gemm)
@@ -26,3 +30,7 @@ My favorate projects:
 * ML solution for long-tailed demands, MegFlow is implemented with Rust and  Python
 
 [![](https://github-readme-stats.vercel.app/api/pin?username=MegEngine&repo=MegFlow)](https://github.com/megengine/megflow)
+
+* A free open service for onnx/trt/ncnn/openvino model zoo and online model conversion and testing
+
+  https://openmmlab.com/deploee
