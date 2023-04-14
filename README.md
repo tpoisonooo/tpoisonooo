@@ -33,4 +33,4 @@ My favorate projects:
 
 * A free open service for onnx/trt/ncnn/openvino model zoo and online model conversion and testing
 
-  https://openmmlab.com/deploee
+  [https://openmmlab.com/deploee](https://platform.openmmlab.com/deploee)
