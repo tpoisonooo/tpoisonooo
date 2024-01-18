@@ -17,6 +17,12 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats.vercel.app/api?username=tpoisonooo)
 
+My report:
+
+HuixiangDou: Overcoming Group Chat Scenarios with LLM-based Technical Assistance [arxiv2401.08772](https://arxiv.org/abs/2401.08772) 
+
+[![](https://github-readme-stats.vercel.app/api/pin?username=InternLM&repo=HuixiangDou)](https://github.com/InternLM/HuixiangDou)
+
 My favorate projects:
 
 * llama onnx format and single demo without `torch`
