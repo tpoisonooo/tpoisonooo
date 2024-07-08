@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **tpoisonooo/tpoisonooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,19 +17,23 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats.vercel.app/api?username=tpoisonooo)
 
-My report:
+### My preprint
 
-HuixiangDou: Overcoming Group Chat Scenarios with LLM-based Technical Assistance [arxiv2401.08772](https://arxiv.org/abs/2401.08772) 
+* HuixiangDou: Overcoming Group Chat Scenarios with LLM-based Technical Assistance [arxiv2401.08772](https://arxiv.org/abs/2401.08772) 
+* [solo] Improve SFT annotation based on scaling law [arxiv2405.02817](https://arxiv.org/abs/2405.02817)
 
 [![](https://github-readme-stats.vercel.app/api/pin?username=InternLM&repo=HuixiangDou)](https://github.com/InternLM/HuixiangDou)
 
-My favorate projects:
+### Favorate projects (heavily contributed or owned)
+* Mobile inference framework
+
+[![](https://github-readme-stats.vercel.app/api/pin?username=tencent&repo=ncnn)](https://github.com/tencent/ncnn)
 
 * llama onnx format and single demo without `torch`
 
 [![](https://github-readme-stats.vercel.app/api/pin?username=tpoisonooo&repo=llama.onnx)](https://github.com/tpoisonooo/llama.onnx)
 
-* how to optimize GEMM，armv7/aarch64/aarch64-int8/cuda/cuda-int4/vulkan all supported
+* How to optimize GEMM，armv7/aarch64/aarch64-int8/cuda/cuda-int4/vulkan all supported
 
 [![](https://github-readme-stats.vercel.app/api/pin?username=tpoisonooo&repo=how-to-optimize-gemm)](https://github.com/tpoisonooo/how-to-optimize-gemm)
 
