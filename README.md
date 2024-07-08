@@ -17,14 +17,17 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats.vercel.app/api?username=tpoisonooo)
 
-### My preprint
+### My preprint 🔭
 
 * HuixiangDou: Overcoming Group Chat Scenarios with LLM-based Technical Assistance [arxiv2401.08772](https://arxiv.org/abs/2401.08772) 
 * [solo] Improve SFT annotation based on scaling law [arxiv2405.02817](https://arxiv.org/abs/2405.02817)
 
 [![](https://github-readme-stats.vercel.app/api/pin?username=InternLM&repo=HuixiangDou)](https://github.com/InternLM/HuixiangDou)
 
-### Favorate projects (heavily contributed or owned)
+### My favorites 🌱
+
+Heavily contributed or owned repos:
+
 * Mobile inference framework
 
 [![](https://github-readme-stats.vercel.app/api/pin?username=tencent&repo=ncnn)](https://github.com/tencent/ncnn)
@@ -44,3 +47,8 @@ Here are some ideas to get you started:
 * A free open service for onnx/trt/ncnn/openvino model zoo and online model conversion and testing
 
   [https://openmmlab.com/deploee](https://platform.openmmlab.com/deploee)
+
+### My blog 📫
+
+* [zhihu](https://www.zhihu.com/people/huan-jun-81)
+* [X/twitter](https://x.com/HuixiangDouGit)
