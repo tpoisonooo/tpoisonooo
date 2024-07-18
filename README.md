@@ -28,24 +28,19 @@ Here are some ideas to get you started:
 
 Heavily contributed or owned repos:
 
-* Mobile inference framework
-
+* [ncnn: mobile inference framework](https://github.com/tencent/ncnn)
 [![](https://github-readme-stats.vercel.app/api/pin?username=tencent&repo=ncnn)](https://github.com/tencent/ncnn)
 
-* llama onnx format and single demo without `torch`
-
+* [llama.onnx: onnx format and single demo without `torch`](https://github.com/tpoisonooo/llama.onnx)
 [![](https://github-readme-stats.vercel.app/api/pin?username=tpoisonooo&repo=llama.onnx)](https://github.com/tpoisonooo/llama.onnx)
 
-* How to optimize GEMM，armv7/aarch64/aarch64-int8/cuda/cuda-int4/vulkan all supported
-
+* [How to optimize GEMM，armv7/aarch64/aarch64-int8/cuda/cuda-int4/vulkan all supported](https://github.com/tpoisonooo/how-to-optimize-gemm)
 [![](https://github-readme-stats.vercel.app/api/pin?username=tpoisonooo&repo=how-to-optimize-gemm)](https://github.com/tpoisonooo/how-to-optimize-gemm)
 
-* ML solution for long-tailed demands, MegFlow is implemented with Rust and  Python
-
+* [MegFlow: ML solution for long-tailed demands, mplemented with Rust and Python](https://github.com/megengine/megflow)
 [![](https://github-readme-stats.vercel.app/api/pin?username=MegEngine&repo=MegFlow)](https://github.com/megengine/megflow)
 
 * A free open service for onnx/trt/ncnn/openvino model zoo and online model conversion and testing
-
   [https://openmmlab.com/deploee](https://platform.openmmlab.com/deploee)
 
 ### My blog 📫
