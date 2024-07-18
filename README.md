@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### My preprint 🔭
 
-* HuixiangDou: Overcoming Group Chat Scenarios with LLM-based Technical Assistance [arxiv2401.08772](https://arxiv.org/abs/2401.08772) 
+* [HuixiangDou](https://github.com/InternLM/HuixiangDou): Overcoming Group Chat Scenarios with LLM-based Technical Assistance [arxiv2401.08772](https://arxiv.org/abs/2401.08772) 
 * [solo] Improve SFT annotation based on scaling law [arxiv2405.02817](https://arxiv.org/abs/2405.02817)
 
 [![](https://github-readme-stats.vercel.app/api/pin?username=InternLM&repo=HuixiangDou)](https://github.com/InternLM/HuixiangDou)
