@@ -47,8 +47,3 @@ Heavily contributed or owned repos:
 * A free open service for onnx/trt/ncnn/openvino model zoo and online model conversion and testing
 
   [https://openmmlab.com/deploee](https://platform.openmmlab.com/deploee)
-
-### My blog 📫
-
-* [Zhihu](https://www.zhihu.com/people/huan-jun-81)
-* [X/twitter](https://x.com/HuixiangDouGit)
