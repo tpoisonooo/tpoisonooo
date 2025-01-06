@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 
 [![](https://github-readme-stats.vercel.app/api/pin?username=InternLM&repo=HuixiangDou)](https://github.com/InternLM/HuixiangDou)
 
+[![](https://github-readme-stats.vercel.app/api/pin?username=tpoisonooo&repo=HuixiangDou2)](https://github.com/tpoisonooo/HuixiangDou2) 
+
 ### My favorites 🌱
 
 Heavily contributed or owned repos:
