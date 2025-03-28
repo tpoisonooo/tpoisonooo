@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ### My preprint 🔭
 
-* [HuixiangDou](https://github.com/InternLM/HuixiangDou): Overcoming Group Chat Scenarios with LLM-based Technical Assistance [arxiv2401.08772](https://arxiv.org/abs/2401.08772)
-* [HuixiangDou2](https://github.com/tpoisonooo/ROGRAG): A Robustly Optimized GraphRAG Approach
-* [SOLO] Improve SFT annotation based on scaling law [arxiv2405.02817](https://arxiv.org/abs/2405.02817)
+* [HuixiangDou](https://github.com/InternLM/HuixiangDou): Overcoming Group Chat Scenarios with LLM-based Technical Assistance [arXiv2401.08772](https://arxiv.org/abs/2401.08772)
+* [HuixiangDou2](https://github.com/tpoisonooo/ROGRAG): A Robustly Optimized GraphRAG Approach [arXiv2503.06474](https://arxiv.org/abs/2503.06474)
+* [SOLO] Improve SFT annotation based on scaling law [arXiv2405.02817](https://arxiv.org/abs/2405.02817)
 
 [![](https://github-readme-stats.vercel.app/api/pin?username=InternLM&repo=HuixiangDou)](https://github.com/InternLM/HuixiangDou)
 
