@@ -1,19 +1,6 @@
-## Hi there 👋
+## Hi 👋
 
-<!--
-**tpoisonooo/tpoisonooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+An engineer currently in research institute. If you’re interested in collaborating,please reach me on tpoisonooo@gmail.com
 
 ![](https://github-readme-stats.vercel.app/api?username=tpoisonooo)
 
@@ -23,31 +10,6 @@ Here are some ideas to get you started:
 * [solo] [HuixiangDou2](https://github.com/tpoisonooo/ROGRAG): A Robustly Optimized GraphRAG Approach [arXiv2503.06474](https://arxiv.org/abs/2503.06474)
 * [solo] Improve SFT annotation based on scaling law [arXiv2405.02817](https://arxiv.org/abs/2405.02817)
 * [Cell MP cover paper] [SeedLLM·Rice](https://www.cell.com/molecular-plant/abstract/S1674-2052(25)00172-8): A large language model integrated with rice biological knowledge graph
-
-[![](https://github-readme-stats.vercel.app/api/pin?username=InternLM&repo=HuixiangDou)](https://github.com/InternLM/HuixiangDou)
-
-[![](https://github-readme-stats.vercel.app/api/pin?username=tpoisonooo&repo=HuixiangDou2)](https://github.com/tpoisonooo/HuixiangDou2) 
-
-### My favorites 🌱
-
-Heavily contributed or owned repos:
-
-* [ncnn: mobile inference framework](https://github.com/tencent/ncnn)
-
-  [![](https://github-readme-stats.vercel.app/api/pin?username=tencent&repo=ncnn)](https://github.com/tencent/ncnn)
-
-* [llama.onnx: onnx format and single demo without `torch`](https://github.com/tpoisonooo/llama.onnx)
-
-  [![](https://github-readme-stats.vercel.app/api/pin?username=tpoisonooo&repo=llama.onnx)](https://github.com/tpoisonooo/llama.onnx)
-
-* [How to optimize GEMM，armv7/aarch64/aarch64-int8/cuda/cuda-int4/vulkan all supported](https://github.com/tpoisonooo/how-to-optimize-gemm)
-
-  [![](https://github-readme-stats.vercel.app/api/pin?username=tpoisonooo&repo=how-to-optimize-gemm)](https://github.com/tpoisonooo/how-to-optimize-gemm)
-
-* [MegFlow: ML solution for long-tailed demands, mplemented with Rust and Python](https://github.com/megengine/megflow)
-
-  [![](https://github-readme-stats.vercel.app/api/pin?username=MegEngine&repo=MegFlow)](https://github.com/megengine/megflow)
-
 * A free open service for onnx/trt/ncnn/openvino model zoo and online model conversion and testing
 
   [https://openmmlab.com/deploee](https://platform.openmmlab.com/deploee)
