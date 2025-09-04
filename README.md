@@ -7,7 +7,7 @@ An engineer currently at a research institute.
 - 2016~2019, OrionStar Robotics, Mobile Vision Team Lead
 - 2015~2016, Gradute from USTC, then co-founded a mobile-app company
 
-If you’re interested in collaborating,please reach me on tpoisonooo@gmail.com
+If you’re interested in collaborating, please reach me on tpoisonooo@gmail.com
 
 ![](https://github-readme-stats.vercel.app/api?username=tpoisonooo)
 
