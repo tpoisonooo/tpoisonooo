@@ -9,8 +9,6 @@ An engineer currently at a research institute.
 
 If you’re interested in collaborating, please reach me on tpoisonooo@gmail.com
 
-![](https://github-readme-stats.vercel.app/api?username=tpoisonooo)
-
 ### My preprint 🔭
 
 * [HuixiangDou](https://github.com/InternLM/HuixiangDou): Overcoming Group Chat Scenarios with LLM-based Technical Assistance [arXiv2401.08772](https://arxiv.org/abs/2401.08772)
