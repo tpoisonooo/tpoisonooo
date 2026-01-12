@@ -1,6 +1,6 @@
 ## Hi 👋
 
-- 2022~present, Shanghai AI Lab, AI4Sci Team
+- 2022~present, Shanghai AI Lab, AI4Seed Tech Lead
 - 2019~2022, Megvii, SDK Team Lead
 - 2016~2019, OrionStar Robotics, Mobile Vision Team Lead
 - 2015~2016, Gradute from USTC, then co-founded a mobile-app company
