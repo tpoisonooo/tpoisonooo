@@ -1,7 +1,5 @@
 ## Hi 👋
 
-An engineer currently at a research institute. 
-
 - 2022~present, Shanghai AI Lab, AI4Sci Team
 - 2019~2022, Megvii, SDK Team Lead
 - 2016~2019, OrionStar Robotics, Mobile Vision Team Lead
