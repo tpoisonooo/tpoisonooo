@@ -1,7 +1,7 @@
 ## Hi 👋
 
 - 2026–present, working at [moonshot.ai](https://www.moonshot.cn/)
-- 2022–2025, lab, AI4Seed
+- 2022–2025, ailab, AI4Seed Tech Lead
 - 2019–2022, Megvii, SDK Team Lead
 - 2016–2019, OrionStar Robotics, Mobile Vision Team Lead
 - 2015–2016, USTC, then co-founded a mobile-app company
